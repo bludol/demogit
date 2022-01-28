@@ -1,1 +1,2 @@
-Demo ukol v Gitu 
+# Demo ukol v Gitu 
+# 2. verze
